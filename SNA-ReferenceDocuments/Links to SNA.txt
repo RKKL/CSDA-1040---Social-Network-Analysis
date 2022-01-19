@@ -1,0 +1,22 @@
+SNA links
+
+https://www.datacamp.com/community/tutorials/social-network-analysis-python
+
+https://www.datacamp.com/community/tutorials/social-network-analysis-python
+
+
+https://deepnote.com/@deepnote/An-Introduction-to-Social-Network-Analysis-with-NetworkX-Two-Factions-of-a-Karate-Club-w4wQvz-rTpeKZpx8DrlyrQ
+
+https://blog.dominodatalab.com/social-network-analysis-with-networkx
+
+https://www.cl.cam.ac.uk/teaching/1415/L109/l109-tutorial_2015.pdf
+
+
+https://arxiv.org/pdf/2102.10014.pdf
+
+
+https://github.com/Jcharis/Social-Network-Analysis/blob/master/Python%20NetworkX%20%20Tutorial/Social%20Network%20Analysis%20with%20Networkx%20in%20Python%20-%20All%20In%20One.ipynb
+
+https://www.sciencedirect.com/topics/computer-science/centrality-measure
+
+
